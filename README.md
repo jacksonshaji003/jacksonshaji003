@@ -34,7 +34,7 @@ I'm on a journey to become a skilled Embedded Developer — and you're invited t
 
 - ⚡ Programming: C, Python  
 - ⚡ Microcontrollers: PIC Micro controller, ARM 
-- ⚡ Protocols: UART, I2C, SPI  
+- ⚡ Protocols: UART, I2C, SPI    
 - ⚡ Tools & IDEs: Arduino IDE, MPLAB X, Proteus, Keil uVision  
 - ⚡ Basic PCB Design: EasyEDA  
 - ⚡ Version Control: Git & GitHub  
@@ -60,8 +60,8 @@ I'm on a journey to become a skilled Embedded Developer — and you're invited t
 ## 🌐 Let's Connect
 
 - 📧 Email: jacksonshaji826@gmail.com 
-- 🔗 LinkedIn: (https://www.linkedin.com/in/jacksonshaji03/)  
-- 💻 GitHub: (https://github.com/jacksonshaji00)
+- 🔗 LinkedIn: https://www.linkedin.com/in/jacksonshaji03/ 
+- 💻 GitHub: https://github.com/jacksonshaji00
 
 ---
 
