@@ -4,12 +4,12 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=28&center=true&vCenter=true&width=700&height=50&lines=Hi+there!+I'm+Jackson+%F0%9F%91%8B;Embedded+Systems+Enthusiast;Electronics+Diploma+Graduate;C%2FC%2B%2B+Programmer;IoT+Builder;Hardware+Lover">
-</div>
+</div>  
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/jacksonshaji03/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:jacksonshaji826@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/jacksonshaji003"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" alt="GitHub"></a>
 </div>
 
 ---
